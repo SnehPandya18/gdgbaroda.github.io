@@ -48,6 +48,10 @@ paper-button[raised].colorful {
     border-radius: 0;
 }
 
+#tabsContainer{
+	display:none;
+}
+
 .pointer {
     cursor: pointer;
 }
